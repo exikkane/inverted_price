@@ -1,4 +1,4 @@
-div class="ty-product-notification__item clearfix">
+<div class="ty-product-notification__item clearfix">
 {include file="common/image.tpl" image_width="80" image_height="80" images=$product.main_pair no_ids=true class="ty-product-notification__image"}
 <div class="ty-product-notification__content clearfix">
     <a href="{"products.view?product_id=`$product.product_id`"|fn_url}" class="ty-product-notification__product-name">{$product.product_id|fn_get_product_name nofilter}</a>

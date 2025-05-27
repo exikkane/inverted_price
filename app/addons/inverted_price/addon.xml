@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <addon scheme="3.0">
-    <id>Inverted Price</id>
+    <id>inverted_Price</id>
     <version>1.0</version>
     <priority>10000</priority>
     <position>0</position>
